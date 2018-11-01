@@ -5,6 +5,6 @@
 * original-A.xd
 * original-B.xd
 
-## use lined symbol
+## use linked symbol
 
 * design.xd
